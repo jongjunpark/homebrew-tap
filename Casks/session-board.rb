@@ -1,6 +1,6 @@
 cask "session-board" do
-  version "0.3.11"
-  sha256 "326e3d782f03f92c1644d019852247563ed7fc632536e2b9f5695b4b25a16ed5"
+  version "0.3.12"
+  sha256 "012f01cd5fd80604d2957e403a4d399253f2e17a971406e23fe4d5b405dae162"
 
   url "https://github.com/jongjunpark/session-board/releases/download/v#{version}/SessionBoard.zip"
   name "SessionBoard"
